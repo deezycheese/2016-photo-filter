@@ -1,0 +1,7 @@
+{
+  "name": "DigiCam AI",
+  "description": "A professional-grade virtual digital camera with real-time color grading, vintage digicam aesthetics, and AI-powered image enhancement.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
